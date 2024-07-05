@@ -1,0 +1,25 @@
+.container{
+display: flex;
+}
+
+
+.row {
+    display: flex;
+
+    }
+
+    .col {
+        background-color: aquamarine;
+        padding: 20px;
+        margin: 10px;
+        flex: 1;
+    }
+    .col-2 {
+        flex:2
+    
+    }
+
+    .col-3 {
+        flex:3
+    
+    }

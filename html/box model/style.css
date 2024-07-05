@@ -1,0 +1,113 @@
+H1{
+    text-align: center;
+}
+div#container{
+    width: 900px;
+    height: 350px;
+    outline: 2px solid black;
+    background-color: aqua;
+    display: flex;
+    
+
+
+}
+
+div#bloque1{
+    width: 300px;
+    height: 300px;
+    outline: 2px solid black;
+    background-color: rgb(43, 248, 16);
+    text-align: center;
+    margin: 15px;
+    border: 90px;
+    
+    
+
+}
+div#bloque2{
+    width: 300px;
+    height: 300px;
+    outline: 2px solid black;
+    background-color: rgb(229, 245, 10);
+    text-align: end;
+    margin: 15px;
+    border: 90px;
+}
+
+
+div#bloque3{
+    width: 300px;
+    height: 300px;
+    outline: 2px solid black;
+    background-color: rgb(248, 16, 113);
+    text-align:left;
+    margin: 15px;
+    border: 90px;
+}
+
+div#contenido{
+    width: 850px;
+    height: 350px;
+    outline: 2px solid black;
+    background-color: rgb(0, 255, 0);
+    display: flex;
+    margin-top: 50px;
+    
+}
+
+div#bloque4{
+    width: 300px;
+    height: 300px;
+    outline: 2px solid black;
+    background-color: rgb(94, 73, 185);
+    text-align:right;
+    margin: 15px;
+    border: 90px;
+}
+
+div#bloque5{
+    width: 300px;
+    height: 300px;
+    outline: 2px solid black;
+    background-color: rgb(137, 23, 148);
+    text-align:left;
+    margin: 15px;
+    border: 90px;
+}
+
+div#bloque6{
+    width: 300px;
+    height: 300px;
+    outline: 2px solid black;
+    background-color: rgb(23, 228, 194);
+    text-align:center;
+    margin: 15px;
+    border: 90px;
+}
+
+div#otrocontenido{
+    display: inline-block;
+    width: 350px;
+    height: 900px;
+    outline: 2px solid black;
+    background-color: rgb(209, 65, 149);
+    text-align:center;
+    margin: 15px;
+    border: 90px;
+    margin-top: 50px;
+}
+
+div#bloque7{
+    width: 250px;
+    height: 800px;
+    outline: 2px solid black;
+    background-color: rgb(23, 228, 194);
+    text-align:center;
+    margin: 30px;
+    border: 90px;
+}
+
+
+
+
+

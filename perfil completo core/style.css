@@ -1,0 +1,325 @@
+nav{
+    background-color: dimgray;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    justify-content: space-between;
+    max-width: 1220px;
+    min-width: 600px;
+    border: 5px solid rgb(230, 240, 230);
+    
+}
+
+main{
+    border: 5px solid rgb(197, 199, 197);
+    height: 70%;
+    display: flex;
+    gap:40px;
+    padding:20px;
+    max-width: 1200px;
+    min-width: 600px;
+    
+}
+section{
+
+    height:800px;
+
+    
+}
+.izquierda{
+    flex:2;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.banner{
+    max-width: 600px;
+    min-width: 300px;
+    background-color: rgb(80, 175, 175);
+    width: 100%;
+    height: 20%;
+    border-radius: 30px 0px 30px 0px;
+    
+}
+
+.derecha{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    
+
+}
+
+.tarjetausuario, .educacion, .solicitudes, .contactos, .texto, .texto2{
+    border: 3px solid rgb(241, 229, 229);
+    border-radius: 15px;
+}
+.tarjetausuario{
+    display: flex;
+    position: relative;
+    flex-wrap:wrap ;
+    justify-content: start;
+    height: 50%;
+    flex: 1;
+    max-width: 600px;
+    min-width: 300px;
+
+}
+
+.educacion h6{
+font-family:Arial, Helvetica, sans-serif;
+font-size: 15px;
+display: flex;
+text-align: justify;
+padding-left: 20px;
+padding-right: 20px;
+
+
+}
+.educacion h5{
+    font-family: oblique Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 36px;
+    padding-left: 40px;
+    display: flex;
+    margin-top: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+    
+
+
+.educacion{
+    display: block;
+    height: 30%;
+    max-width: 600px;
+    min-width: 300px;
+    
+}
+.estudios{
+    display: flex;
+    padding-left: 15px;
+    
+    
+
+
+}
+
+
+h2, h3,  p{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    text-align: start;
+    padding-left: 40px;
+    position: relative;
+    top:-200px;
+    text-decoration: none;
+    
+    
+}
+.btn {
+    background-color: #3298a5; 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+    position: relative;
+    top:-210px;
+    
+    margin-left: 40px;
+    
+}
+.btn i {
+    margin-right: 8px;
+    
+}
+
+
+.solicitudes{
+    
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    height: 30%;
+    
+
+}
+
+
+
+.texto{
+    position: relative;
+}
+.contactos{
+
+    height: 70%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+
+img{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    top:-140px;
+}
+.img2{
+    width: 50px;
+    height: 50px;
+    top:2px;
+
+}
+
+.solicitud{
+    margin-top: -30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h4{
+    color:rgb(25, 77, 94);
+    text-align: center;
+    position: relative;
+    margin-top: 2px;
+    font-size: 35px;
+    font-family: oblique Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.solicitud span, .solicitud2 span{
+    position: absolute;
+    padding-left: 70px;
+    margin-top: 15px;
+    display: flex;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+}
+.solicitud2{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+
+h7{
+    color: rgb(25, 77, 94);
+    padding-left: 18px;
+    margin-top: 2px;
+    font-size: 35px;
+    font-family: oblique Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.conexion .conexion2{
+display: flex;
+justify-content: space-between;
+
+}
+.contactos span{
+    justify-content: space-between;
+    position: absolute;
+    padding-left: 70px;
+    margin-top: -40px;
+    display: flex;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+-----------------------------------------------------------
+
+.navbar {
+    
+    padding-left: 20px;
+    display: flex;
+    color: #fff;
+
+}
+
+
+.logo a {
+    color: #fff;
+    font-size: 24px;
+    display: flex;
+    text-decoration: none;
+    font-family: oblique Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    padding-left: 50px;
+    font-size: 50px;
+
+
+}
+
+.nav-links {
+
+    list-style-type: none;
+    display: flex;
+    font-family: oblique Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    ;
+    font-size: 30px;
+    
+    
+}
+.boton{
+    
+    border-radius: 50px;
+    
+    background-color: rgb(226, 235, 240);
+    width: 100px;
+    height: 55px;
+    font-size: 20px;
+    font-family: oblique Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.nav-links li {
+    
+    margin-right: 20px;
+    position: relative;
+    
+    
+
+}
+
+.nav-links li a {
+    color: antiquewhite;
+    text-decoration: none;
+    transition: color 0.2s ease;
+    position: relative;
+}
+
+.nav-links li a:hover {
+    position: relative;
+    text-decoration:none;
+    top: 8px;
+    color: rgb(14, 29, 29);
+
+    
+    
+}
+@media (min-width <= 600px) {
+    .derecha {
+    float: left;
+    }
+}

@@ -1,0 +1,38 @@
+*{
+    color: 10px green;
+}
+h1{
+    color: black;
+}
+section{
+    border: 1px solid black;
+}
+section p{
+    color: blue;
+
+}
+section p.clase{
+    color: aqua;
+
+}
+section p#unico{
+    color: brown;
+}
+
+#container p {
+    font-size: 16px;
+    background-color: #333;
+
+}
+#container p.highlight {
+    font-weight: bold;
+    color: blueviolet;
+}
+#container p {
+    font-weight: bold;
+    color: #f10e0e; 
+}
+
+
+
+

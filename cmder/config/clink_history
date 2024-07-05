@@ -1,0 +1,83 @@
+|CTAG_1720047082_183454328_15828_0
+|wd
+|wd
+|lear
+|wd
+|s
+|ree
+|wd
+|wd
+tree
+|lear
+|d
+|lear
+cd c:/
+|lear
+|d..
+|d..
+|d..
+|lear
+|d..
+|lear
+c..
+|lear
+|d
+|lear
+|wd
+|lear
+|d
+cd..
+|s
+cd./html
+pwd
+|s
+./selectores/box.html
+tree/f
+|s
+ls-l
+|s -l
+|lear
+file
+|lear
+|s
+ls -l
+file LICENSE
+file SELECTORES
+mkdir prueba
+|s
+nano prueba2.txt
+cp prueba2.txt./botones
+cd botones
+|s
+|s
+cp prueba2.txt ./prueba
+|d
+|s
+|d prueba
+|s
+mkdir pruebax
+|s
+cp pruebax ./prueba
+|d prueba
+clear
+|d
+cd FULL STACK JAVA
+..
+|s
+mkdir carpeta nueva
+|ano
+cd
+cd archivo
+cd prueba
+|ano
+nano
+mkdir archivo texto
+|s
+touch
+touch genio.txt
+ls
+cp ./genio.txt./archivo
+cp genio.txt ..
+cp genio.txt ./archivo
+git--version
+git --version

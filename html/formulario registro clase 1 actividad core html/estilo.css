@@ -1,0 +1,25 @@
+form {
+    border: 2px solid #000; 
+    padding: 20px; 
+    width: 420px; 
+    margin: 0 auto; 
+    background-color: #3c9497;  
+}
+input::placeholder {
+    color: rgb(2, 41, 19); 
+    font-style: italic; 
+    font-size: 14px; 
+}
+
+.tipoletra { 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 17px;
+
+
+}
+.imagenfondo{
+    background-image:url(Unclesamwantyou.webp);
+
+    
+}
